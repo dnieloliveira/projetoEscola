@@ -1,0 +1,2 @@
+# projetoEscola
+Projeto Escola COTUCA
